@@ -1,3 +1,3 @@
 # Sistes
 
-N1: https://petschow.netlify.app
+N1: petschow.netlify.app
